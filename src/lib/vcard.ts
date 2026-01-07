@@ -8,7 +8,7 @@ ORG:Spabrix Agency
 TITLE:Digital Agency
 TEL;TYPE=WORK,VOICE:9946972210
 EMAIL;TYPE=WORK:spabrix@gmail.com
-URL:https://spabrix.com
+URL:https://www.spabrix.in/
 NOTE:Website Development | Digital Marketing | Graphic Design
 END:VCARD`;
 
@@ -125,7 +125,7 @@ export const downloadDigitalCard = () => {
 
         <div class="contact-item">
           <span class="label">Web</span>
-          <span class="value">spabrix.com</span>
+          <span class="value">www.spabrix.in</span>
         </div>
 
         <div class="qr-placeholder">

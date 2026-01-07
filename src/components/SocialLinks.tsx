@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Instagram, Globe } from "lucide-react";
 
 const socials = [
-  { icon: Globe, href: "https://spabrix.com", label: "Website" },
+  { icon: Globe, href: "https://www.spabrix.in/", label: "Website" },
 ];
 
 const SocialLinks = () => {
